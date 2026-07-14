@@ -1,6 +1,0 @@
-{
-  "name": "rfp-studio",
-  "private": true,
-  "type": "module",
-  "engines": { "node": "20.x" }
-}
